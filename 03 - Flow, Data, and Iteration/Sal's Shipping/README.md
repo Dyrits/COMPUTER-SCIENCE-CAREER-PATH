@@ -37,7 +37,7 @@ Write a program that asks the user for the weight of their package and then tell
 - Python 3
 
 ### Details | Comments
-- This project has been made following specific instructions. A few premade elements have been provided by the related course. 
+- This project has been made from scratch following specific instructions. 
 
 ### Status
 Finished
