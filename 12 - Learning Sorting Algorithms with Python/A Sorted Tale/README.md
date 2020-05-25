@@ -1,0 +1,35 @@
+# A Sorted Tale
+
+## More about this project
+
+### Related course
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 12 - Learning Sorting Algorithms with Python  
+Sorting Comprehensive
+
+### Description of the project by [CODE]CADEMY PRO
+You recently began employment at “A Sorted Tale”, an independent bookshop. Every morning, the owner decides to sort the books in a new way.  
+
+Some of his favorite methods include:  
+- By author name  
+- By title  
+- By number of characters in the title  
+- By the reverse of the author’s name  
+
+Throughout the day, patrons of the bookshop remove books from the shelf. Given the strange ordering of the store, they do not always get the books placed back in exactly the correct location.  
+
+The owner wants you to research methods of fixing the book ordering throughout the day and sorting the books in the morning. It is currently taking too long!  
+
+### Core technologies
+- Python 3
+
+### Details | Comments 
+- This project has been made following specific instructions. A few premade elements have been provided by the related course.
+
+### Status
+Completed
+
+#### Last update
+25/05/2020
+
+#### Last update (README.md)
+25/05/2020

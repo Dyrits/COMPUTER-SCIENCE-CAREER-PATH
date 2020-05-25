@@ -3,7 +3,8 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration (Python Loops)
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration  
+Python Loops
 
 ### Description of the project by [CODE]CADEMY PRO
 You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
@@ -22,10 +23,10 @@ Let’s get started!
 - This project has been made following specific instructions. A few premade elements have been provided by the related course.
 
 ### Status
-Finished
+Completed
 
 #### Last update
 06/04/2020
 
 #### Last update (README.md)
-24/05/2020
+25/05/2020

@@ -3,7 +3,8 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration (Python Lists)
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration  
+Python Lists
 
 ### Description of the project by [CODE]CADEMY PRO
 You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
@@ -15,10 +16,10 @@ You are a student and you are trying to organize your subjects and grades using 
 - This project has been made following specific instructions. A few premade elements have been provided by the related course.
 
 ### Status
-Finished
+Completed
 
 #### Last update
 05/04/2020
 
 #### Last update (README.md)
-24/05/2020
+25/05/2020

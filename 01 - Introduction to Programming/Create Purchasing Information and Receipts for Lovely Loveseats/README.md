@@ -3,7 +3,8 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Introduction to Programming (Learn Python: Syntax)
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Introduction to Programming  
+Learn Python: Syntax
 
 ### Description of the project by [CODE]CADEMY PRO
 We’ve decided to pursue the dream of small-business ownership and open up a furniture store called *Lovely Loveseats for Neat Suites on Fleet Street*. With our newfound knowledge of Python programming, we’re going to build a system to help speed up the process of creating receipts for your customers.
@@ -25,4 +26,4 @@ Finished
 01/04/2020
 
 #### Last update (README.md)
-24/05/2020
+25/05/2020

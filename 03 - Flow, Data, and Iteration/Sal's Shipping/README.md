@@ -3,7 +3,8 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration (Python Control Flow)
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration  
+Python Control Flow
 
 ### Description of the project by [CODE]CADEMY PRO
 Sal runs the biggest shipping company in the tri-county area, Sal’s Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages. In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
@@ -40,10 +41,10 @@ Write a program that asks the user for the weight of their package and then tell
 - This project has been made from scratch following specific instructions. 
 
 ### Status
-Finished
+Completed
 
 #### Last update
 04/04/2020
 
 #### Last update (README.md)
-24/05/2020
+25/05/2020
