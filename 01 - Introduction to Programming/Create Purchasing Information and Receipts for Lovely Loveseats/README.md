@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 1. Introduction to Programming
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 1. Introduction to Programming  
 Learn Python: Syntax
 
 ### Description of the project by [CODE]CADEMY PRO
