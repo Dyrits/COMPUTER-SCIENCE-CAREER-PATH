@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration  
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 3. Flow, Data, and Iteration  
 Python Control Flow
 
 ### Description of the project by [CODE]CADEMY PRO
@@ -34,7 +34,7 @@ Flat charge: $125.00
 
 Write a program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
-### Core technologies
+### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
 ### Details | Comments
@@ -47,4 +47,4 @@ Completed
 04/04/2020
 
 #### Last update (README.md)
-25/05/2020
+04/06/2020

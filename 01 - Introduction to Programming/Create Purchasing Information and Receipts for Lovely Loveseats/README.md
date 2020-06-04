@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Introduction to Programming  
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 1. Introduction to Programming
 Learn Python: Syntax
 
 ### Description of the project by [CODE]CADEMY PRO
@@ -13,7 +13,7 @@ In this project, we will be storing the names and prices of a furniture store’
 
 **Please note**: Projects do not run tests against your code. This experience is more open to your interpretation and gives you the freedom to explore. Remember that all variables must be declared *before* they are referenced in your code.
 
-### Core technologies
+### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
 ### Details | Comments
@@ -26,4 +26,4 @@ Finished
 01/04/2020
 
 #### Last update (README.md)
-25/05/2020
+04/06/2020

@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Flow, Data, and Iteration  
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 3. Flow, Data, and Iteration  
 Python Loops
 
 ### Description of the project by [CODE]CADEMY PRO
@@ -16,7 +16,7 @@ You have been provided with three lists:
 
 Let’s get started!
 
-### Core technologies
+### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
 ### Details | Comments
@@ -29,4 +29,4 @@ Completed
 06/04/2020
 
 #### Last update (README.md)
-25/05/2020
+04/06/2020

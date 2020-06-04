@@ -19,7 +19,7 @@ Throughout the day, patrons of the bookshop remove books from the shelf. Given t
 
 The owner wants you to research methods of fixing the book ordering throughout the day and sorting the books in the morning. It is currently taking too long!  
 
-### Core technologies
+### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
 ### Details | Comments 

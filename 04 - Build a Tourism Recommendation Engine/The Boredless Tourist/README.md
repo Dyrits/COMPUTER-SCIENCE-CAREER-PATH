@@ -3,13 +3,13 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: Build a Tourism Recommendation Engine  
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 4. Build a Tourism Recommendation Engine  
 The Boredless Tourist
 
 ### Description of the project by [CODE]CADEMY PRO
 Welcome to *The Boredless Tourist*, an online application giving you the power to find the parts of the city that fit the pace of your life. We at *The Boredless Tourist* run a recommendation engine using Python. We first evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that we think they’ll be engaged by. Let’s get started!
 
-### Core technologies
+### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
 ### Details | Comments
@@ -22,4 +22,4 @@ Completed
 07/04/2020
 
 #### Last update (README.md)
-25/05/2020
+04/06/2020
