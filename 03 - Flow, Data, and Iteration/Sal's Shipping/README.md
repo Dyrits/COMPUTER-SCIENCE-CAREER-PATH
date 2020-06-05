@@ -35,7 +35,7 @@ Flat charge: $125.00
 Write a program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
 ### Technologies | Libraries | Frameworks | Tools  
-- Python 3
+- Python
 
 ### Details | Comments
 - This project has been made from scratch following specific instructions. 

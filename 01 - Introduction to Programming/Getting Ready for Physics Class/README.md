@@ -10,7 +10,7 @@ Learn Python: Functions
 You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.  
 
 ### Technologies | Libraries | Frameworks | Tools  
-- Python 3
+- Python
 
 ### Details | Comments
 - This project has been made following specific instructions. A few premade elements have been provided by the related course. 

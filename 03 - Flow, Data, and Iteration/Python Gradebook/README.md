@@ -10,7 +10,7 @@ Python Lists
 You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
 
 ### Technologies | Libraries | Frameworks | Tools  
-- Python 3
+- Python
 
 ### Details | Comments
 - This project has been made following specific instructions. A few premade elements have been provided by the related course.

@@ -10,7 +10,7 @@ Python Lists
 You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
 
 ### Technologies | Libraries | Frameworks | Tools  
-- Python 3
+- Python
 
 ### Details | Comments
 - This project has been made from scratch following specific instructions. 

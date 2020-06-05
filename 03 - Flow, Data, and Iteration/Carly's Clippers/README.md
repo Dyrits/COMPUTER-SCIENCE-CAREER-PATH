@@ -17,7 +17,7 @@ You have been provided with three lists:
 Let’s get started!
 
 ### Technologies | Libraries | Frameworks | Tools  
-- Python 3
+- Python
 
 ### Details | Comments
 - This project has been made following specific instructions. A few premade elements have been provided by the related course.
