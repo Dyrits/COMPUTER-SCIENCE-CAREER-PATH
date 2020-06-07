@@ -28,6 +28,3 @@ def sparse_search(data, search_val):
             if  search_val > data[mid]:
                 first  = mid + 1
     print(f"{search_val} is not in the dataset.")
-            
-        
-
