@@ -5,7 +5,7 @@
 ## More about this project
 
 ### Related course
-[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 06 - Create an Art Marketplace  
+[CODE]CADEMY PRO | COMPUTER SCIENCE CAREER PATH: 6 - Create an Art Marketplace  
 Veneer
 
 ### Description of the project by [CODE]CADEMY PRO
